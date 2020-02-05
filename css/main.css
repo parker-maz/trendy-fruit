@@ -10,7 +10,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  font: 100%/1.3 "Open Sans",sans-serif;
+  font: 100%/1.3 "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -41,10 +41,11 @@ body {
 .card-2 h2 {
   font-family: "Gravitas One";
 }
+
 .card-3 {
   background-color: #e86033;
 }
 
 .card-3 h2 {
-  font-family: "Comfortaa";
+  font-family: Comfortaa;
 }
